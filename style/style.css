@@ -26,9 +26,23 @@ nav a{
     float: center;
     color: black;
 }
-#intro{
-    padding: 250px;
-    background-color: rgba(128, 128, 128, 0.21);
+h2{
+    padding: 20px;
+}
+h3{
+    padding: 15px;
+}
+
+main {
+    background-color: white;
+    /* text-align: center; */
+}
+section:nth-child(even) {
+    background-color: rgb(241, 241, 241);
+}
+section {
+    min-height: 100vh;
+    font-size: x-large;
 }
 footer{
     padding: 20px;
