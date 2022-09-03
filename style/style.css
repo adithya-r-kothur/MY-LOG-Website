@@ -1,0 +1,36 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+header{
+    padding: 40px;
+    background-color: rgba(7, 7, 240, 0.726);
+}
+header h1{
+    text-align: center;
+    color: white;
+    background-color: rgba(25, 13, 192, 0);
+}
+nav{
+    padding: 20px;
+    background-color:rgba(232, 232, 20, 0.676);
+}
+nav a{
+    /* padding: 20px;
+    background-color: black;
+    text-decoration: none;
+    color: yellow;
+    text-align: center; */
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: center;
+    color: black;
+}
+#intro{
+    padding: 250px;
+    background-color: rgba(128, 128, 128, 0.21);
+}
+footer{
+    padding: 20px;
+    background-color: rgb(123, 123, 123);
+}
